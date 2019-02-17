@@ -3,4 +3,5 @@ import xbmcgui
 import xbmc
 import os, sys
 
-os.system("steamlink")
+xbmc.executebuiltin('XBMC.Quit')
+os.system("sh steamlink")
