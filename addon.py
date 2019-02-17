@@ -3,4 +3,4 @@ import xbmcgui
 import xbmc
 import os, sys
 
-os.system("bash steamlink")
+os.system("steamlink")
